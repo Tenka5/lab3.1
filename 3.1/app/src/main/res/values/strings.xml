@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">лаб3.1</string>
+    <string name="range">Укажите в каком диапазон загаданное число</string>
+    <string name="first_number">Первое число</string>
+    <string name="second_number">Второе число</string>
+    <string name="start">Старт</string>
+    <string name="question">Загалоное число больше/равно или меньше числа $num?</string>
+    <string name="eqgt">Больше/Равно</string>
+    <string name="lt">Меньше</string>
+    <string name="answer">Загалоное число: $num.</string>
+</resources>
